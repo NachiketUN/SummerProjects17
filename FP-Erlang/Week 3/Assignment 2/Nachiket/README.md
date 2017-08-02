@@ -1,4 +1,4 @@
-# Assignment 4
+# Assignment 2
 
 ### Functions Implemented are :-
 Time taken in Micro Seconds
